@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+# layout: ../../layouts/MarkdownPostLayout.astro
 title: é a quarta
 author: Aluno de Astro
 description: "Eu tive alguns desafios, mas perguntar na comunidade realmente me ajudou!"
